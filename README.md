@@ -1,2 +1,3 @@
 # Coursework
-coursework of the Academic Writing, Norms, and Ethics
+Coursework of the Academic Writing, Norms, and Ethics
+Hello world!
